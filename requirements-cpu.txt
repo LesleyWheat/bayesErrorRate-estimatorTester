@@ -1,0 +1,2 @@
+# Required packages and versions for cpu computation
+tensorflow==2.17

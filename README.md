@@ -5,10 +5,8 @@ The purpose of this program is to evaluate Bayes Error Rate (BER) estimators on 
 
 ### (1) Installation
 - Install python (3.10 or above)
-- Create a virtual enviroment 'python -m venv .venv'
+- Create a virtual enviroment
 - Activate the virtual environment
-  - Linux: 'source .venv/bin/activate'
-  - Windows: 'source ./.venv/Scripts/activate'
 - Configure the settings in config.py
 - Run the install script 'python install.py'
 
@@ -26,7 +24,7 @@ Run Monte Carlo Simulations: 'python runExp.py'
 
 ### (4) Generate graphs and tables
 
-Create tables and graphs: 'python displayAll.py'.
+Create tables and graphs: 'python displayPaper.py'.
 Note that LaTex is required to make plots and images of tables.
 
 ## Attribution
