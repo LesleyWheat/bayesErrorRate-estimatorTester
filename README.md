@@ -41,4 +41,4 @@ This project redistributes code from the following projects:
   - Source: https://github.com/tensorflow/hub
 
 ## Citation
-Cite as L. Wheat, M. V. Mohrenschildt, and S. Habibi, “Bayes error rate estimation in difficult situations,” Unpublished, http://dx.doi.org/10.13140/RG.2.2.31847.56480
+Cite as L. Wheat, M. V. Mohrenschildt, and S. Habibi, “Bayes error rate estimation in difficult situations,” Unpublished, https://doi.org/10.48550/arXiv.2506.03159
